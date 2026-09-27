@@ -1,0 +1,5 @@
+# 局域网 IP 地址扫描助手依赖
+# 使用虚拟环境: /home/piter/project/python/venv
+scapy>=2.5
+PySide6>=6.6
+dnspython>=2.6
